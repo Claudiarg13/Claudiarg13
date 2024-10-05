@@ -19,11 +19,7 @@ Additionally, I love music, video games, and binge-watching series/movies 🎶�
 </p>
 
 
-<h2 align="center">🎶 My music 🎶</h2>
-
-<p align="center">
-Here are some of my favorite artists:
-</p>
+<h2 align="center">🎶 My taste 🎶</h2>
 
 <table align="center">
 
